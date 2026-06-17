@@ -1,35 +1,31 @@
 <h1 align="center">Divyansh Kumar</h1>
 <p align="center">
-  <strong>Software Engineer</strong><br>
-  Building scalable web & mobile solutions for education and enterprise systems.
+  <strong>Software Developer</strong><br>
+  Crafting clean, scalable web and mobile applications.
 </p>
 
 <p align="center">
-  <a href="https://github.com/divyanshk4u"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/divyansh-kumar-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:divyanshk4u@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="tel:+919870504167"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+  <a href="https://github.com/Dravij"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Avalon;Flutter+%7C+Angular+%7C+MERN+Stack;OpenEMIS+%7C+Enterprise+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Development;Mobile+%26+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineer** at **Avalon Information System**, where I build and maintain enterprise-scale applications used by thousands of users worldwide. My work spans **Angular** enterprise migrations, **Flutter** cross-platform apps for UNESCO's OpenEMIS ecosystem, and full-stack products with the **MERN** stack.
+I'm a **software developer** passionate about building reliable, user-friendly applications. I work across the stack  from crafting responsive frontends to designing solid backend APIs and shipping cross-platform mobile apps.
 
-I enjoy solving real production problems — from cutting build times and fixing grading logic to designing offline-first sync for users in low-connectivity regions.
+I enjoy turning ideas into working software, writing maintainable code, and continuously learning new tools and patterns along the way.
 
-- 🏢 **Software Engineer** @ Avalon Information System, New Delhi
-- 🌍 Contributed to **OpenEMIS** apps adopted by **UNICEF** across **14 countries**
-- 🎓 **B.Tech CSE** — Bhagwan Parshuram Institute of Technology (GPA: **8.56**)
-- 📍 Based in **New Delhi, India**
+- 💻 Focused on full-stack and mobile development
+- 🛠️ Interested in clean architecture and thoughtful UI/UX
+- 🌱 Always exploring new technologies and best practices
+- 🤝 Open to collaboration and interesting side projects
 
 ---
-
 
 ### 🛠️ Tech Stack
 
@@ -41,7 +37,6 @@ I enjoy solving real production problems — from cutting build times and fixing
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 </p>
 
@@ -67,40 +62,27 @@ I enjoy solving real production problems — from cutting build times and fixing
 </p>
 
 #### **Concepts**
-`Agile/Scrum` · `CI/CD` · `Offline-first Sync` · `Token-based Auth` · `Responsive Design` · `REST APIs`
+`REST APIs` · `Responsive Design` · `Agile` · `CI/CD` · `Authentication` · `Offline-first`
 
 ---
-
-### 🚀 Featured Projects
-
-
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshk4u&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshk4u&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dravij&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dravij&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshk4u&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🧠 Competitive Programming
-
-<p align="center">
-  <a href="https://leetcode.com/u/divyanshk4u/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/divyanshk4u"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dravij&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyanshk4u&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dravij&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <i>Open to collaborating on impactful software — feel free to reach out!</i>
+  <i>Thanks for stopping by — check out my repositories below!</i>
 </p>
